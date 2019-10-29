@@ -10,7 +10,7 @@ Please make sure BizCharts has been already loaded.
 
 ### npm
 ```sh
-$ npm install bizcharts-plugin-slider
+$ npm install bizcharts-plugin-slider --save
 ```
 
 ### html
